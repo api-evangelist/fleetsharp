@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-FleetSharp is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://fleetsharp.com/
+FleetSharp provides GPS-based fleet tracking solutions, offering real-time vehicle location, driver behavior monitoring, equipment tracking, dash camera integration, and fuel cost reduction tools. Their platform enables businesses to improve safety, efficiency, and asset utilization through powerful mapping, alerts, and analytics.
+
+**Areas:** GPS · FleetTracking · AssetManagement · DashCameras · Software
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://fleetsharp.com/)
+- [Documentation](https://help.fleetsharp.com/)
+- [Getting started](https://activate.fleetsharp.com/getstarted/)
+- [Support](https://help.fleetsharp.com/?rb.routing.mode=proxy&rb.routing.signature=236106)
+- [Security](https://www.fleetsharp.com/security-policy)
+- [Terms of service](https://www.fleetsharp.com/terms)
+- [Privacy policy](https://www.fleetsharp.com/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/fleetsharp/](https://apis.io/providers/fleetsharp/).
